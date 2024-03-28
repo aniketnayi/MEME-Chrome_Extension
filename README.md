@@ -10,7 +10,7 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ```json
 {
-    "quote": "I feel like I'm too busy writing history to read it."
+    "img":"https://res.cloudinary.com/dcxzzkfnu/image/upload/v1693941003/MEME/jjlonkqufn3b4ywwurvx.jpg"
 }
 ```
 
