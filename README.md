@@ -8,11 +8,11 @@ Integration with Cloudflare API: It integrates with a Cloudflare API.
 A free REST API for random Meme Img (Meme as a Service).
 
 ## Installation
-#On Microsoft Edge
+# On Microsoft Edge <br>
 https://microsoftedge.microsoft.com/addons/detail/meme-extension/kifdnphcmeejkkmhnffggapadjljncfo
 
-#For Rest Browser (chrome,firefox etc.) use 'Load Unpacked Extension'.
-
+# For Rest Browser (chrome,firefox etc.) use 'Load Unpacked Extension'.
+<br>
 Go to Chrome Settings using three dots on the top right corner.
 Then Select Extensions.
 Now, Enable developer mode.
