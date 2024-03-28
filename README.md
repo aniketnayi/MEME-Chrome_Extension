@@ -20,31 +20,13 @@ Click on Load Unpacked and select your Unzip folder.
 You need to select the folder in which the manifest file exists. 
 The extension will be installed now.
 
-## Usage
-
-### `GET` [https://fun.killingtime.workers.dev/](https://fun.killingtime.workers.dev/)
-
-```json
-{
-    "img":"https://res.cloudinary.com/dcxzzkfnu/image/upload/v1693941003/MEME/jjlonkqufn3b4ywwurvx.jpg"
-}
-```
-
-or
-
-### `GET` [https://fun.killingtime.workers.dev/img](https://fun.killingtime.workers.dev/img)
+## API
+Read About Api [Here](https://github.com/aniketnayi/MEME-Api/)
 
 IMG
 <br>
 <img width="auto" alt="Group 20" src="https://res.cloudinary.com/dcxzzkfnu/image/upload/v1693941981/MEME/lxxs4tesul8tiq9sm0ot.jpg">
 
-## Development
-
-Install [Wrangler](https://developers.cloudflare.com/workers/wrangler/get-started/#installation)
-
-```shell
-npx wrangler dev
-```
 
 ## License
 
