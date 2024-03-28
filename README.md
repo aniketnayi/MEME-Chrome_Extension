@@ -18,8 +18,9 @@ or
 
 ### `GET` [https://fun.killingtime.workers.dev/img](https://fun.killingtime.workers.dev/img)
 
-```text
-[m (141)](https://github.com/aniketnayi/MEME-Chromium_Extension/assets/32934564/36b0d5ad-427d-4f75-8aca-ed5929a7167e)
+```IMG
+![m (141)](https://github.com/aniketnayi/MEME-Chromium_Extension/assets/32934564/135ff6db-16e4-47b1-89e3-ca87fc4d67f6)
+
 
 ```
 
