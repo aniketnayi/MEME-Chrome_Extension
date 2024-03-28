@@ -1,2 +1,35 @@
-# MEME-Chrome_Extension
-MemeGen is a Chrome extension that serves as a hub for all things meme-related. Users can generate random memes at the click of a button, save their favorite memes and share the funniest memes directly from the extension to social media platforms. The extension is built using HTML, CSS, and JavaScript and integrates with a Cloudflare Api.
+# [Meme](https://fun.killingtime.workers.dev/)
+
+A free REST API for random Meme Img (Meme as a Service).
+
+Built with [Cloudflare Workers](https://workers.cloudflare.com/).
+
+## Usage
+
+### `GET` [https://fun.killingtime.workers.dev/](https://fun.killingtime.workers.dev/)
+
+```json
+{
+    "quote": "I feel like I'm too busy writing history to read it."
+}
+```
+
+or
+
+### `GET` [https://fun.killingtime.workers.dev/img](https://fun.killingtime.workers.dev/img)
+
+```text
+The world is our office
+```
+
+## Development
+
+Install [Wrangler](https://developers.cloudflare.com/workers/wrangler/get-started/#installation)
+
+```shell
+npx wrangler dev
+```
+
+## License
+
+MIT
